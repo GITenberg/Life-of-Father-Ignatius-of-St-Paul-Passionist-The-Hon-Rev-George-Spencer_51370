@@ -1,0 +1,27 @@
+_repo: Life-of-Father-Ignatius-of-St-Paul-Passionist-The-Hon-Rev-George-Spencer_51370
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pius a Sp. Sancto (Pius a Spiritu Sancto)
+    aliases:
+    - Pius of the Name of Mary
+    - Pius a Spiritu Sancto
+    gutenberg_agent_id: '46383'
+    url: http://www.gutenberg.org/2009/agents/46383
+description: ''
+gutenberg_issued: '2016-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51370'
+  lccn: '37019960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spencer, George, 1799-1864'
+- !lcsh 'Passionists'
+- !lcc 'BX'
+- GITenberg
+title: Life of Father Ignatius of St. Paul, Passionist (The Hon. & Rev. George Spencer).
+url: http://www.gutenberg.org/ebooks/51370
